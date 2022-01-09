@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<h3 align="left">Connect with me:</h3>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left">
-<a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="30" width="40" /></a>
+My name is Anoop Kumar Sharma and I'm a Full Stack .Net Developer from India. You can find me on <a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="20" width="30" /></a>, or on <a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="15" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
