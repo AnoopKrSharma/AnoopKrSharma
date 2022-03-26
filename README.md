@@ -4,7 +4,12 @@
 
 - 🔭 I’m currently working on ASP.NET MVC | ASP.NET Core | ASP.NET Web API
 - 📫 How to reach me: <a href="https://www.ittutorialswithexample.com/" target="_blank">IT Tutorials with Example</a> | <a href="https://twitter.com/AnoopKrSharma" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/anoopkrsharma/" target="_blank">LinkedIn</a>
-- ![](https://komarev.com/ghpvc/?username=AnoopKrSharma)
+- ⚡ <a href="https://github.com/AnoopkrSharma/AnoopkrSharma">
+    <img src="https://komarev.com/ghpvc/?username=AnoopkrSharma" alt="page views" />
+  </a> &nbsp;
+  <a href="https://github.com/AnoopkrSharma?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AnoopkrSharma?color=green&logo=github">
+  </a>
 
 <h2 align="left" id="AnoopKrSharma-Tools">Languages and Tools</h2>
 
