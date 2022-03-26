@@ -1,6 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anoop Kumar Sharma
 
-<h3 align="left">I'm a Full Stack .Net Developer from India. You can find me on <a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="20" width="30" /></a>, or on <a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="15" width="25" /></a></h3>
+<h4 align="left">I'm a Full Stack .Net Developer from India. You can find me on <a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="20" width="30" /></a>, or on <a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="15" width="25" /></a></h4>
+
+- 🔭 I’m currently working on ASP.NET MVC | ASP.NET Core | ASP.NET Web API
+- 📫 How to reach me: <a href="https://www.ittutorialswithexample.com/" target="_blank">IT Tutorials with Example</a> | <a href="https://twitter.com/AnoopKrSharma" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/anoopkrsharma/" target="_blank">LinkedIn</a>
+- ![](https://komarev.com/ghpvc/?username=AnoopKrSharma)
 
 <h2 align="left" id="AnoopKrSharma-Tools">Languages and Tools</h2>
 
@@ -124,17 +128,3 @@
 
 [![Anoop Kumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnoopKrSharma)](https://github.com/AnoopKrSharma/github-readme-stats)
 
-<!--
-**AnoopKrSharma/AnoopKrSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
