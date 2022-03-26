@@ -2,8 +2,125 @@
 
 <h3 align="left">I'm a Full Stack .Net Developer from India. You can find me on <a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="20" width="30" /></a>, or on <a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="15" width="25" /></a></h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="left" id="AnoopKrSharma-Tools">Languages and Tools</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/csharp.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/dotnet.svg" width="48" height="48" alt="DotNet" />
+      </a>
+      <br>.Net
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/azure.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/angular.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/microsoftsqlserver.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/visualstudio.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/html5.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/css.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/javascript.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/jquery.svg" width="48" height="48" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center"  width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#AnoopKrSharma-Tools">
+        <img src="./Images/postman.svg" width="48" height="48" alt="postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/dotnetcore.svg" width="48" height="48" alt="dotnetcore" />
+      </a>
+      <br>.Net Core
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/windowsserver.svg" width="48" height="48" alt="Windows Server IIS" />
+      </a>
+      <br>Windows Server IIS
+    </td>
+    <td align="center" width="96">
+      <a href="#AnoopKrSharma-Tools" >
+        <img src="./Images/photoshop.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+  </tr>
+</table>
+
 
 [![Anoop Kumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnoopKrSharma)](https://github.com/AnoopKrSharma/github-readme-stats)
 
