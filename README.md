@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anoop Kumar Sharma
+# Hello, folks! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm Anoop Kumar Sharma
 
 <h4 align="left">I'm a Full Stack .Net Developer from India. You can find me on <a href="https://twitter.com/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoopkrsharma" height="20" width="30" /></a>, or on <a href="https://linkedin.com/in/anoopkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkrsharma" height="15" width="25" /></a></h4>
 
